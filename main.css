@@ -5,4 +5,32 @@ body
 	font-family: 'Lato', sans-serif;;
 }
 
+.header-ul{
+	list-style-type: none;
+	border-right: solid 0.1px gray;
+	font-size: 9px;
+}
+input{
+	font-size: x-small;
+}
+input:focus {
+	outline: none;
+}
+form input::placeholder {
+	color: white;
+	font-size: x-small;
+	border: none;
+}
+.bg-gray{
+	background-color:#d8d8d8; ;
+}
+.bg-gray-dark{
+	background-color: gray;
+}
+.nav-item:hover{
+    background-color: gray;
+}
 
+.bg-green{
+	background-color: #96c526;
+}
