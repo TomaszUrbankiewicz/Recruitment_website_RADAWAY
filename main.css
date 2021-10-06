@@ -34,3 +34,17 @@ form input::placeholder {
 .bg-green{
 	background-color: #96c526;
 }
+span{
+	font-size: 13px;
+	font-weight: 700;
+}
+.p-style{
+	font-size: 14px;
+	color:gray ;
+}
+.h-color{
+	color: #96c526;
+}
+.borderStyl{
+	border-bottom: solid 7px gray;
+}
